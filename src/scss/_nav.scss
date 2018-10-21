@@ -1,0 +1,28 @@
+.nav {
+    width: 15%;
+    min-width: 140px;
+    color:$primary-color;
+    padding-top: 55px;
+    padding-right: 30px;
+    text-align: center;
+  }
+  
+.nav h4 {
+    -webkit-margin-before: 0;
+    margin-left: 50px;
+  }
+
+a:link { 
+    text-decoration: none;
+    color: #e6d819;
+}
+
+a:hover { 
+    text-decoration: underline;
+    color:#e6d819;
+}
+
+a:visited { 
+    text-decoration: none;
+    color: #e6d819;
+}
